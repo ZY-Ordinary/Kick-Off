@@ -1,2 +1,2 @@
-# Kick-Off
-Prepare to do something interesting
+# AI Study
+All meterials for my AI study
